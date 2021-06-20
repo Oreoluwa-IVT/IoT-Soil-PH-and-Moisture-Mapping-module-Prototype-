@@ -1,2 +1,2 @@
-# SensorMapWithGSM800L
+# SensorMapWitSIM800L
 Been working on this for a while now. Updates incoming.......
