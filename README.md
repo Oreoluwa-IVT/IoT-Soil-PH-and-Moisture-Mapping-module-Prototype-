@@ -22,3 +22,11 @@ LED INDICATORS x2 |
 PH,TEMP SENSOR |
 HUMIDITY SENSOR |
 
+## User Interface For the Soil Sensor Map Web Application
+![Web 1920 – 1](https://user-images.githubusercontent.com/75027292/125213608-c7d6e880-e2aa-11eb-8a8f-600756f17d57.png)
+![Web 1920 – 2](https://user-images.githubusercontent.com/75027292/125213612-ca394280-e2aa-11eb-999c-801d50194fbd.png)
+![Web 1920 – 9](https://user-images.githubusercontent.com/75027292/125213613-cc9b9c80-e2aa-11eb-8eb2-32b8fd00ff19.png)
+![Web 1920 – 10](https://user-images.githubusercontent.com/75027292/125213616-ce656000-e2aa-11eb-9861-f3bfc7f2e6da.png)
+![Web 1920 – 27](https://user-images.githubusercontent.com/75027292/125213617-cefdf680-e2aa-11eb-8fae-5e09a169e3e1.png)
+
+
