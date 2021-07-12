@@ -23,7 +23,7 @@ PH,TEMP SENSOR |
 HUMIDITY SENSOR |
 
 ## User Interface For the Soil Sensor Map Web Application
-<img src="https://user-images.githubusercontent.com/75027292/125213608-c7d6e880-e2aa-11eb-8a8f-600756f17d57.png" height=100 width=200)
+<img src="https://user-images.githubusercontent.com/75027292/125213608-c7d6e880-e2aa-11eb-8a8f-600756f17d57.png" height="100" width="200")
 
 ![Web 1920 – 2](https://user-images.githubusercontent.com/75027292/125213612-ca394280-e2aa-11eb-999c-801d50194fbd.png)
 
