@@ -1,6 +1,7 @@
 # Soil Moisture and PH Monitor
 > The first iteration of a small, efficient, powerful monitoring package.
-<img src="https://github.com/user-attachments/assets/55031c5b-47f4-44da-be43-cbea9d6fc508" />
+<img src="https://github.com/user-attachments/assets/ca6c0120-6158-4d9f-bd73-9f570e0b7f9c" />
+
 
 ## 🚩 Table of Contents
 
@@ -34,20 +35,20 @@ This images is compressed. If you struggle with seeing certain details you can d
 ## 🎨 PCB Design Properties and Specifications
 | Category | Description |
 | --- | --- |
-| Board Thinkess | 1.612mm |
-| Board Height | 10mm |
-| Dimension | 40mm x 80mm |
-| Number of Layers |  2  |
-| Soldermask | Green |
-| Silkscreen | White |
-| mounting Holes | 4 |
-| Edge Fillet Radius | 2mm |
-| Impedance Profile (Antenna) | 50Ω |
-| Impedance Profile (USB) | 90Ω |
-| Minimum Trace Width  | 0.2mm|
-| Maximum Trace Width | 0.2mm |
-| Minimum Hole Size  | 0.2mm|
-| Maximum Hole Size | 0.2mm |
+| Board Thinkess | |
+| Board Height |  |
+| Dimension |    |
+| Number of Layers |    |
+| Soldermask |  |
+| Silkscreen |  |
+| mounting Holes |  |
+| Edge Fillet Radius |  |
+| Impedance Profile (Antenna) |  |
+| Impedance Profile (USB) |  |
+| Minimum Trace Width  | |
+| Maximum Trace Width |  |
+| Minimum Hole Size  | |
+| Maximum Hole Size |  |
 
 ## 🐾 Board Presentation 
 Below is the board in different views. To see areas of the board not shown below , please visit the Altium 365 project link. 
