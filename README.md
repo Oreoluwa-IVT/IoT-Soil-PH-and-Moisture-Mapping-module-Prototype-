@@ -16,20 +16,16 @@
 
 
 ##  Project Description 
-This project aimed to develop a visual representation of soil moisture and pH across farmlands. We can do this by acquiring PH and Moisture data using suitable sensors. THe module's location (later vision) will help establish a gps waypoint on the farmland to help us understand which area of the farmland is being measured. GPS coordinates , soil moisture and soil PH is collected and transmitted to a gateway.
+This project aimed to develop a visual representation of soil moisture and pH across farmlands. We can do this by acquiring PH and Moisture data using suitable sensors. The module's location (later vision) will help establish a GPS waypoint on the farmland to help us understand which area of the farmland is being measured. GPS coordinates, soil moisture, and soil PH is collected and transmitted to a gateway.
 
 
 ## 🤖 Schematics?
 
-The schematics is all on one sheet. The Sheet contains symbols and connections for a USB-C, ESP32-C3 Soc, RGB module, 2MB flash storage, terminal blocks, a buzzer, optocouplers and 12V to 5V power converter
+The schematics is all on one sheet. The Sheet contains symbols and connections for a USB-C, ESP32-C3 Soc, RGB module, 2MB flash storage, terminal blocks, a buzzer, optocouplers, and 12V to 5V power converter
 
 ### Energy Monitoring Schematic Sheet 1
 This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
 <img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
-
-### Energy Monitoring Schematic Sheet 2
-This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
-<img src="https://github.com/user-attachments/assets/e44891f0-4ea8-47d1-83c9-54377b72260e" />
 
 ## 🎨 PCB Design Properties and Specifications
 | Category | Description |
