@@ -21,10 +21,10 @@ This project aimed to develop a visual representation of soil moisture and pH ac
 
 ## 🤖 Schematics?
 
-The schematics is all on one sheet. The Sheet contains symbols and connections for a USB-C, ESP32-C3 Soc, RGB module, 2MB flash storage, terminal blocks, a buzzer, optocouplers, and 12V to 5V power converter
+The schematics are all on one sheet. The Sheet contains symbols and connections for a USB-C, ESP32-C3 Soc, RGB module, 2MB flash storage, terminal blocks, a buzzer, optocouplers, and 12V to 5V power converter
 
-### Energy Monitoring Schematic Sheet 1
-This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
+### IoT Soil PH and Moisture Mapping Schematic Sheet 1
+This image is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
 <img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
 
 ## 🎨 PCB Design Properties and Specifications
@@ -46,7 +46,7 @@ This images is compressed. If you struggle with seeing certain details you can d
 | Maximum Hole Size |  |
 
 ## 🐾 Board Presentation 
-Below is the board in different views. To see areas of the board not shown below , please visit the Altium 365 project link. 
+Below is the board in different views. To see areas of the board not shown below, please visit the Altium 365 project link. 
 <img src="https://github.com/user-attachments/assets/7185e227-41d2-4916-9e0d-90ed663ac18a" />
 
 
