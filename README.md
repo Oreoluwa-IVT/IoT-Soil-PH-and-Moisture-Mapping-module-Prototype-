@@ -16,12 +16,12 @@
 
 
 ##  Project Description 
-This project aimed to develop a visual representation of soil moisture and pH across farmlands. We can do this by acquiring PH and Moisture data using suitable sensors. THe module's location (later vision) will help establish a gps waypoint on the farmland to help us understand which area of the farmland is being measured. GPS coordinates , soil moisture and soil PH is collected , transmitted to a gateway.
+This project aimed to develop a visual representation of soil moisture and pH across farmlands. We can do this by acquiring PH and Moisture data using suitable sensors. THe module's location (later vision) will help establish a gps waypoint on the farmland to help us understand which area of the farmland is being measured. GPS coordinates , soil moisture and soil PH is collected and transmitted to a gateway.
 
 
 ## 🤖 Schematics?
 
-The schematics consist of two sheets. Sheet 1 contains symbols and connections for a high-speed USB-C, Atemga328 MCU, 6-pin headers, RGB module, USB to Serial IC, terminal blocks, and 12V to 5V power converter. Sheet 2 contains symbols for a LoRa_E5 module, a NINA-W102-00B, and a bidirectional 5V to 3V3 level translator.
+The schematics is all on one sheet. The Sheet contains symbols and connections for a USB-C, ESP32-C3 Soc, RGB module, 2MB flash storage, terminal blocks, a buzzer, optocouplers and 12V to 5V power converter
 
 ### Energy Monitoring Schematic Sheet 1
 This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
