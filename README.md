@@ -21,7 +21,7 @@ The *energy monitoring* module shown above is an open-source project designed to
 
 ## 🤖 Schematics?
 
-The schematics are two sheets in total. Sheet 1 contains symbols and connections for highspeed USB-C, Atemga328 MCU, 6-pin headers, RGB module, USB to Serial IC, terminal blocks, and 12V to 5V power converter. Sheet 2 contains symbols for a LoRa_E5 module, a NINA-W102-00B, and a bidirectional 5V to 3V3 level translator.
+The schematics consist of two sheets. Sheet 1 contains symbols and connections for a high-speed USB-C, Atemga328 MCU, 6-pin headers, RGB module, USB to Serial IC, terminal blocks, and 12V to 5V power converter. Sheet 2 contains symbols for a LoRa_E5 module, a NINA-W102-00B, and a bidirectional 5V to 3V3 level translator.
 
 ### Energy Monitoring Schematic Sheet 1
 This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
