@@ -25,7 +25,8 @@ The schematics are all on one sheet. The Sheet contains symbols and connections 
 
 ### IoT Soil PH and Moisture Mapping Schematic Sheet 1
 This image is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
-<img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
+<img src="https://github.com/user-attachments/assets/b11934f4-bb2f-49ea-b43e-d20f67230e7f" />
+
 
 ## 🎨 PCB Design Properties and Specifications
 | Category | Description |
