@@ -1,5 +1,5 @@
-# Soil Moisture and PH Monitor
-> A Soil pH and moisture logging module.
+# IoT Soil PH and Moisture Mapping module 
+> A soil pH and moisture logging module.
 <img src="https://github.com/user-attachments/assets/a2a56503-3629-4138-bb58-be04060bd364" />
 
 ## 🚩 Table of Contents
