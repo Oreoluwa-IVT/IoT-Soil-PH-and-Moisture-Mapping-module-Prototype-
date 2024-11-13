@@ -66,7 +66,7 @@ $ https://oreofeoluwa-ayoola.365.altium.com/designs/28BCF5DB-3B28-4A5B-AA95-F2BD
 ## 💬 Version History
 ## 🍞 Download Project Files
 
-- [Schematics](https://github.com/Oreoluwa-IVT/IoT-Soil-PH-and-Moisture-Mapping-module-Prototype-/blob/main/Altium%20Schematic%20Files.zip))
+- [Schematics](https://github.com/Oreoluwa-IVT/IoT-Soil-PH-and-Moisture-Mapping-module-Prototype-/blob/main/Altium%20Schematic%20Files.zip)
 - [PCB Files](https://github.com/nhn/tui.chart)
 - [Gerber Files](https://github.com/nhn/tui.grid)
 
