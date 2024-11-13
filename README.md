@@ -16,7 +16,7 @@
 
 
 ##  Project Description 
-The *energy monitoring* module shown above is an open-source project designed to help enthusiasts monitor energy consumed with the aid of current and voltage sensors. To help address the issue of unclear electric usage and tariffs, you can explore using this unit to wirelessly monitor energy consumption. To ensure easy access to the data acquired by the voltage and current sensors, two wireless communication modules were incorporated onboard. This includes a LoRa_E5 Module to initiate LoRaWAN Communication and a NINA module to provide access to data via WiFi or BLE. *Altium Designer* is the software used for this project.
+This project aimed to develop a visual representation of soil moisture and pH across farmlands. We can do this by acquiring PH and Moisture data using suitable sensors. THe module's location (later vision) will help establish a gps waypoint on the farmland to help us understand which area of the farmland is being measured. GPS coordinates , soil moisture and soil PH is collected , transmitted to a gateway.
 
 
 ## 🤖 Schematics?
