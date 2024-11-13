@@ -48,7 +48,7 @@ This image is compressed. If you struggle with seeing certain details you can do
 
 ## 🐾 Board Presentation 
 Below is the board in different views. To see areas of the board not shown below, please visit the Altium 365 project link. 
-<img src="https://github.com/user-attachments/assets/7185e227-41d2-4916-9e0d-90ed663ac18a" />
+<img src="https://github.com/user-attachments/assets/d7cab1d6-857d-4f20-b2da-4b56aaad9e8a" />
 
 
 
