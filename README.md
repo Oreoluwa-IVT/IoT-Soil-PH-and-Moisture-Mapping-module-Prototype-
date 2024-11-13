@@ -1,7 +1,6 @@
 # Soil Moisture and PH Monitor
-> The first iteration of a small, efficient, powerful monitoring package.
-<img src="https://github.com/user-attachments/assets/ca6c0120-6158-4d9f-bd73-9f570e0b7f9c" />
-
+> A Soil pH and moisture logging module.
+<img src="https://github.com/user-attachments/assets/a2a56503-3629-4138-bb58-be04060bd364" />
 
 ## 🚩 Table of Contents
 
