@@ -89,7 +89,7 @@ Below is the board in different views. To see areas of the board not shown below
 #### Altium 365 Project
 
 ``` sh
-$ https://oreofeoluwa-ayoola.365.altium.com/designs/28BCF5DB-3B28-4A5B-AA95-F2BDC21DAB44
+ https://oreofeoluwa-ayoola.365.altium.com/designs/28BCF5DB-3B28-4A5B-AA95-F2BDC21DAB44
 ```
 
 ## 💬 Version History
