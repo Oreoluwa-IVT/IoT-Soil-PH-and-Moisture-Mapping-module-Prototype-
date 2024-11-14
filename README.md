@@ -24,7 +24,7 @@ This project aimed to develop a visual representation of soil moisture and pH ac
 The schematics are all on one sheet. The Sheet contains symbols and connections for a USB-C, ESP32-C3 Soc, RGB module, 2MB flash storage, terminal blocks, a buzzer, optocouplers, and 12V to 5V power converter
 
 ### IoT Soil PH and Moisture Mapping Schematic Sheet 1
-This image is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
+This image is compressed. You can download the schematics in the Project files section below if you struggle with seeing certain details. Thanks!!
 <img src="https://github.com/user-attachments/assets/b11934f4-bb2f-49ea-b43e-d20f67230e7f" />
 
 
