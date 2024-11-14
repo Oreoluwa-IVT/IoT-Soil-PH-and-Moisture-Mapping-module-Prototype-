@@ -91,10 +91,6 @@ Here’s the updated table with all 31 rows, simplified descriptions, and a numb
 | 30 | ABM8-40.000MHZ-10-1-U-T | Crystal, 40MHz                          | Y1             | Up to date      | 1        | Abracon              | ABM8-40.000MHZ-10-1-U-T       | Digikey     | 0.43                |
 | 31 | ABM8-40.000MHZ-10-1-U-T | Crystal, 40MHz                          | Y2             | Up to date      | 1        | Abracon              | ABM8-40.000MHZ-10-1-U-T       | Digikey     | 0.43                |
 
-
-This table now includes all 31 rows from the BOM file, with simplified descriptions and a numbering column on the left.
-
-
 - 
 #### Altium 365 Project
 
