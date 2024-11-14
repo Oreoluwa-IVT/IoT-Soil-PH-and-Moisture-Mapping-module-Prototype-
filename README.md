@@ -31,20 +31,17 @@ This image is compressed. You can download the schematics in the Project files s
 ## 🎨 PCB Design Properties and Specifications
 | Category | Description |
 | --- | --- |
-| Board Thinkess | |
-| Board Height |  |
-| Dimension |    |
-| Number of Layers |    |
-| Soldermask |  |
-| Silkscreen |  |
-| mounting Holes |  |
-| Edge Fillet Radius |  |
-| Impedance Profile (Antenna) |  |
-| Impedance Profile (USB) |  |
-| Minimum Trace Width  | |
-| Maximum Trace Width |  |
-| Minimum Hole Size  | |
-| Maximum Hole Size |  |
+| Board Thinkess | 1.6178 |
+| Dimension | 80mm x 50mm  |
+| Number of Layers |  4  |
+| Soldermask | Black |
+| Silkscreen | White |
+| Mounting Holes | 4 |
+| Edge Fillet size | 6mm |
+| Impedance Profile (Antenna) | 50 |
+| Impedance Profile (USB) | 90 |
+| Minimum Hole Size  | 0.2mm |
+| Maximum Hole Size | 7.62mm |
 
 ## 🐾 Board Presentation 
 Below is the board in different views. To see areas of the board not shown below, please visit the Altium 365 project link. 
