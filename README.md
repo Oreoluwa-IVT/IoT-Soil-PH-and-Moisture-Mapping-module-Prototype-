@@ -100,4 +100,4 @@ $ https://oreofeoluwa-ayoola.365.altium.com/designs/28BCF5DB-3B28-4A5B-AA95-F2BD
 - [Gerber Files](https://github.com/Oreoluwa-IVT/IoT-Soil-PH-and-Moisture-Mapping-module-Prototype-/blob/main/GerberX2.zip)
 
 ## 📜 License
-This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) © [NHN Cloud](https://github.com/nhn).
+This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) 
