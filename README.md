@@ -50,9 +50,6 @@ Below is the board in different views. To see areas of the board not shown below
 
 
 ## 🌏 Bill of Materials
-You're correct; the table above does not cover all 31 rows from the file. I'll complete it based on the provided information and add a numbering column on the left.
-
-Here’s the updated table with all 31 rows, simplified descriptions, and a numbering column:
 
 | #  | Name                    | Description                             | Designator     | Revision Status | Quantity | Manufacturer          | Manufacturer Part Number       | Supplier    | Supplier Unit Price |
 |----|--------------------------|-----------------------------------------|----------------|-----------------|----------|------------------------|--------------------------------|-------------|----------------------|
