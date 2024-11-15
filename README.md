@@ -31,7 +31,7 @@ This image is compressed. You can download the schematics in the Project files s
 ## 🎨 PCB Design Properties and Specifications
 | Category | Description |
 | --- | --- |
-| Board Thinkess | 1.6178 |
+| Board Thickess | 1.6178 |
 | Dimension | 80mm x 50mm  |
 | Number of Layers |  4  |
 | Soldermask | Black |
