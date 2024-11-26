@@ -51,7 +51,7 @@ Below is the board in different views. To see areas of the board not shown below
 
 ## 🌏 Bill of Materials
 
-| #  | Name                    | Description                             | Designator     | Revision Status | Quantity | Manufacturer          | Manufacturer Part Number       | Supplier    | Unit Price |
+| S/N  | Name                    | Description                             | Designator     | Revision Status | Quantity | Manufacturer          | Manufacturer Part Number       | Supplier    | Unit Price |
 |----|--------------------------|-----------------------------------------|----------------|-----------------|----------|------------------------|--------------------------------|-------------|----------------------|
 | 1  | Antenna                 | Antenna module                          | AE1            | Up to date      | 1        | Murata                | GRM1885C1H100JA01D            | Mouser      | 0.1                 |
 | 2  | GRM1885C1H100JA01D      | Capacitor, 0.10uF, 6.3V                 | C1, C2         | Up to date      | 2        | Murata                | GRM1885C1H100JA01D            | Mouser      | 0.1                 |
